@@ -10,3 +10,6 @@
 
 ## Инструменты
 - Ручное тестирование
+
+## Jira
+https://prohorenkoangelina.atlassian.net/jira/software/projects/BUG/boards/2
